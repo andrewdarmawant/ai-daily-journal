@@ -28,3 +28,25 @@
 
 ### Physical AI / Data Moat
 - Physical AI Data Moat: https://www.singularitymoments.com/content/physical-ai-data-is-the-last-real-moat-as-frontier-models-get-distilled-to-death/
+
+### September 13, 2026 — New Sources
+
+#### Global Models
+- Anthropic CEO Slowdown Call: https://www.forbes.com/sites/gabrielalinzainescu/2026/09/13/anthropic-ceo-dario-amodei-calls-for-a-slowdown-in-frontier-ai/
+- OpenAI Cannot Safely Deploy (Fortune): https://www.techtimes.com/articles/327423/20260913/openai-cannot-safely-deploy-its-most-advanced-ai-altman-says-labs-near-safety-pact.htm
+- Altman, Musk Rally Behind Slowdown: https://www.businesstimes.com.sg/international/global/anthropic-ceo-urges-slower-ai-development-altman-musk-rally-behind-call
+- Guardian: Altman & Musk Back AI Brakes: https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development
+- India Today: Amodei's Slowdown Call: https://www.indiatoday.in/technology/story/ai-safety-anthropic-openai-amodei-slowdown-call-altman-musk-2993469-2026-09-13
+- Google Speculative Cascades: https://winbuzzer.com/2025/09/13/google-unveils-speculative-cascades-to-make-llm-inference-faster-and-cheaper-xcxwbn/
+- VaultGemma 1B Release: https://tei.se/google-ai-releases-vaultgemma-the-largest-and-most-capable-open-model-1b-parameters-trained-from-scratch-with-differential-privacy/
+- Claude Sonnet 4.5 Announcement: https://www.fanaticalfuturist.com/2025/09/anthropics-claude-coded-30-hours-straight-to-clone-microsoft-teams-and-slack/
+
+#### Chinese Models
+- Qwen3-Next Architecture: https://www.alibabacloud.com/blog/qwen3-next-a-new-generation-of-ultra-efficient-model-architecture-unveiled_602536
+- Alibaba Cloud Community (Qwen-Drive): https://www.alibabacloud.com/blog/qwen-drive-1-0-an-initial-step-towards-a-vision-language-foundation-model-for-autonomous-driving_603544
+- Qwen3.8-Max Coding Crown: https://news.cocoloop.cn/en/2026/09/qwen38-max-0902-price-gap/
+- Alibaba Open Source Strategy: https://www.ainvest.com/news/alibaba-gave-ai-model-money-downstream-2609/
+- Chinese AI Price War (Zhipu/DeepSeek): https://finance.biggo.com/news/d9dfae7a-6915-49cf-a415-23c39dc51545
+
+#### Safety & Regulation
+- Ban AI Superintelligence Act: https://www.techtimes.com/articles/327423/20260913/openai-cannot-safely-deploy-its-most-advanced-ai-altman-says-labs-near-safety-pact.htm
